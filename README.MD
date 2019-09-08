@@ -1,9 +1,5 @@
 # Test project in Java
 
-[![Version][]][Repo]
-
-[Repo]:	https://github.com/meyakovenkoj/java-test
-
 It is a extremly easy first project in Java, just to understand how to compile this shit.
 
 ## Usage
