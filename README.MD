@@ -88,7 +88,7 @@ keys:
 options:
 * **../bin/HashFunc.jar** - name of your jar file
 * **../MANIFEST.MF** - name of your Manifest
-* * - means 'everything inside current directory'
+* (star) - means 'everything inside current directory'
 * **../lib** - path to external libs
 
 And the last but not the least:
